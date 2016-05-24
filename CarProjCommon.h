@@ -1,5 +1,5 @@
-#ifndef "CARPROJCOMMON_H"
-#define "CARPROJCOMMON_H"
+#ifndef CARPROJCOMMON_H
+#define CARPROJCOMMON_H
 
 #include "constants.h"
 #include "Cstring/Cstring.h"
