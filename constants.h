@@ -37,7 +37,6 @@ const char COMM_TURN_LIGHT_ON[15]       ="TurnLightOn";
 const char COMM_YOUR_POS[15]            ="YourPos";
 const char COMM_YOUR_DEST[15]           ="YourDest";
 const char COMM_REQ_POS[15]             ="ReqPos";
-const char COMM_YOUR_DEST[15]           ="HereIsDest";
 
 
 //IP address
