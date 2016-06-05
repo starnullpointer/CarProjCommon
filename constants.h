@@ -24,9 +24,7 @@ const char CAM_CON_HERE_IS_POS[30]      = "{ Cam Con HereIsPos "; //need to add 
 const char CON_CAR_YOUR_POS[30]         = "{ Con Car YourPos "; //need others MISSING BRACE
 
 const char CAR_CON_REQ_DEST[30]         = "{ Car Con ReqDest }";
-const char CON_CAR_YOUR_DEST[30]        = "{ Con Car YourDest "; // need to add others MISSING BRACE
-// do we need this one...
-const char CAR_CON_REACHED_DEST[30]     = "{ Car Con ReachDest }";
+const char CON_CAR_HERE_IS_DEST[30]        = "{ Con Car HereIsDest ";  //need to finish
 
 const char CAR_CON_HELLO[30]            = "{ Car Con Hello }";
 const char CAM_CON_HELLO[30]            = "{ Cam Con Hello }";
@@ -39,6 +37,7 @@ const char COMM_TURN_LIGHT_ON[15]       ="TurnLightOn";
 const char COMM_YOUR_POS[15]            ="YourPos";
 const char COMM_YOUR_DEST[15]           ="YourDest";
 const char COMM_REQ_POS[15]             ="ReqPos";
+const char COMM_YOUR_DEST[15]           ="HereIsDest";
 
 
 //IP address

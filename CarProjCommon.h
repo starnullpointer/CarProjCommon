@@ -2,8 +2,8 @@
 #define CARPROJCOMMON_H
 
 #include "constants.h"
-#include "Cstring/Cstring.h"
-#include "StringStream/StringStream.h"
-#include "Packet/Packet.h"
+#include "Cstring.h"
+#include "StringStream.h"
+#include "Packet.h"
 
 #endif //CARPROJCOMMON_H
