@@ -1,9 +1,9 @@
 #ifndef PACKET_H
 #define PACKET_H
 // #include <Arduino.h>
-#include "../Cstring/Cstring.h"
-#include "../StringStream/StringStream.h"
-#include "../constants.h"
+#include "Cstring.h"
+#include "StringStream.h"
+#include "constants.h"
 //#include <cstring>    //comment out when using arduino
 
 class Packet

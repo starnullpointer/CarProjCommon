@@ -1,6 +1,6 @@
 #ifndef STRINGSTREAM_H
 #define STRINGSTREAM_H
-#include "../Cstring/Cstring.h"
+#include "Cstring.h"
 
 class StringStream
 {
