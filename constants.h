@@ -48,7 +48,7 @@ const int IP4=2;
 const int port = 3141;
 const int cam_port = 2718;
 const int car_port = 2719;
-const char ssid[] = "Mac's iPhone";     //  your network SSID (name)
-const char pass[] = "helloworld";    // your network password (use for WPA, or use as key for WEP)
+const char ssid[] = "hello";     //  your network SSID (name)
+const char pass[] = "98055197";    // your network password (use for WPA, or use as key for WEP)
 #endif // CONSTANTS
 
