@@ -38,6 +38,12 @@ const char COMM_YOUR_POS[15]            ="YourPos";
 const char COMM_YOUR_DEST[15]           ="YourDest";
 const char COMM_REQ_POS[15]             ="ReqPos";
 
+const char COMM_YOUR_CMD[15]            ="YourCmd";
+
+const char CAR_CON_REQ_CMD[30]          ="{ Car Con ReqCmd }";
+const char CON_CAR_YOUR_CMD[30]         ="{ Con Car YourCmd }";
+
+
 
 //IP address
 const int IP1=172;
