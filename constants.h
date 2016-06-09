@@ -24,7 +24,7 @@ const char CAM_CON_HERE_IS_POS[30]      = "{ Cam Con HereIsPos "; //need to add 
 const char CON_CAR_YOUR_POS[30]         = "{ Con Car YourPos "; //need others MISSING BRACE
 
 const char CAR_CON_REQ_DEST[30]         = "{ Car Con ReqDest }";
-const char CON_CAR_HERE_IS_DEST[30]        = "{ Con Car HereIsDest ";  //need to finish
+const char CON_CAR_YOUR_DEST[30]        = "{ Con Car YourDest ";  //need to finish
 
 const char CAR_CON_HELLO[30]            = "{ Car Con Hello }";
 const char CAM_CON_HELLO[30]            = "{ Cam Con Hello }";
@@ -32,7 +32,7 @@ const char CON_CAR_HELLO[30]            = "{ Con Car Hello }";
 const char CON_CAM_HELLO[30]            = "{ Con Cam Hello }";
 
 const char COMM_LIGHT_IS_ON[15]         ="LightIsOn";
-const char COMM_HERE_IS_POS[15]         ="HereIsPos";
+const char COMM_YOUR_POS[15]         	="YourPos";
 const char COMM_TURN_LIGHT_ON[15]       ="TurnLightOn";
 const char COMM_YOUR_POS[15]            ="YourPos";
 const char COMM_YOUR_DEST[15]           ="YourDest";
