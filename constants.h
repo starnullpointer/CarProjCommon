@@ -32,7 +32,7 @@ const char CON_CAR_HELLO[30]            = "{ Con Car Hello }";
 const char CON_CAM_HELLO[30]            = "{ Con Cam Hello }";
 
 const char COMM_LIGHT_IS_ON[15]         ="LightIsOn";
-const char COMM_YOUR_POS[15]         	="YourPos";
+const char COMM_HERE_IS_POS[15]         ="HereIsPos";
 const char COMM_TURN_LIGHT_ON[15]       ="TurnLightOn";
 const char COMM_YOUR_POS[15]            ="YourPos";
 const char COMM_YOUR_DEST[15]           ="YourDest";
